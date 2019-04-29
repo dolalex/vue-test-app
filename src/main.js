@@ -16,12 +16,12 @@ new Vue({
   created () {
     // Initialize Firebase
     var config = {
-      apiKey: "AIzaSyBb8qvjg-0_au6NJY8JLZUwHSR2HjNoe9Y",
-      authDomain: "online-store-c3113.firebaseapp.com",
-      databaseURL: "https://online-store-c3113.firebaseio.com",
-      projectId: "online-store-c3113",
-      storageBucket: "online-store-c3113.appspot.com",
-      messagingSenderId: "712317793482"
+      apiKey: "",
+      authDomain: "",
+      databaseURL: "",
+      projectId: "",
+      storageBucket: "",
+      messagingSenderId: ""
     };
     fb.initializeApp(config);
 
